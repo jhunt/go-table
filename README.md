@@ -1,6 +1,8 @@
 go-table
 ========
 
+![Travis CI](https://travis-ci.org/jhunt/go-table.svg?branch=master)
+
 A small library for formatting fluid tables for the CLI.
 
 Usage
