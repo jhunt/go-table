@@ -3,10 +3,10 @@
 	"ignore": "test",
 	"package": [
 		{
-			"checksumSHA1": "L520geYTg/bX5VXgSyKFrAfjwVk=",
+			"checksumSHA1": "wxi3v9rY+IhzvrOU4KUnFodd8IA=",
 			"path": "github.com/jhunt/go-ansi",
-			"revision": "193d96a96a6ea43b3c3011d8469ebfaadf582f08",
-			"revisionTime": "2018-11-27T19:37:00Z"
+			"revision": "5fd839f108b6f065c3d1734d82b2f8be8e767b73",
+			"revisionTime": "2018-11-27T19:43:24Z"
 		}
 	],
 	"rootPath": "github.com/jhunt/go-table"
